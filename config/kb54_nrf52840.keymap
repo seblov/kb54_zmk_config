@@ -79,7 +79,7 @@
 &bt BT_CLR      &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2       &bt BT_SEL 3     &bt BT_SEL 4    &trans       &trans          &trans    &trans     &trans  &trans
 &trans          &trans        &trans        &trans             &trans           &trans          &trans       &trans          &trans    &trans     &trans  &trans
 &trans          &trans        &kp C_MUTE    &kp C_VOLUME_DOWN  &kp C_VOLUME_UP  &trans          &kp INS      &kp HOME        &kp UP    &kp END    &trans  &trans
-&bt BT_CLR_ALL  &trans        &kp C_PREV    &kp C_NEXT         &kp C_PP         &trans          &kp NB_PLUS  &kp LEFT_ARROW  &kp DOWN  &kp RIGHT  &trans  &trans
+&bt BT_CLR_ALL  &trans        &kp C_PREV    &kp C_NEXT         &kp C_PP         &none           &kp NB_PLUS  &kp LEFT_ARROW  &kp DOWN  &kp RIGHT  &trans  &trans
                                             &trans             &trans           &trans          &trans       &trans          &trans
             >;
 
