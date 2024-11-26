@@ -69,7 +69,7 @@
 &kp ESC           &kp F1               &kp F2                &kp F3                &kp F4                   &kp F5                      &kp F6     &kp F7     &kp F8     &kp F9         &kp F11        &kp DEL
 &kp TAB           &kp NB_EXCLAMATION   &kp NB_DOUBLE_QUOTES  &kp NB_HASH           &kp NB_DOLLAR            &kp NB_PERCENT              &kp NB_N7  &kp NB_N8  &kp NB_N9  &none          &none          &none
 &kp LEFT_SHIFT    &kp NB_AMPERSAND     &kp NB_SLASH          &kp NB_AT             &kp NB_LEFT_PARENTHESIS  &kp NB_RIGHT_PARENTHESIS    &kp NB_N4  &kp NB_N5  &kp NB_N6  &none          &kp NB_UMLAUT  &none
-&kp NB_LESS_THAN  &kp NB_GREATER_THAN  &kp NB_LEFT_BRACKET   &kp NB_RIGHT_BRACKET  &kp NB_LEFT_BRACE        &kp NB_RIGHT_BRACE          &kp NB_N1  &kp NB_N2  &kp NB_N3  &kp NB_PERIOD  &trans         &trans
+&kp NB_LESS_THAN  &kp NB_GREATER_THAN  &kp NB_LEFT_BRACKET   &kp NB_RIGHT_BRACKET  &kp NB_LEFT_BRACE        &kp NB_RIGHT_BRACE          &kp NB_N1  &kp NB_N2  &kp NB_N3  &kp NB_PERIOD  &trans         &kp NB_GRAVE
                                                              &kp LGUI              &trans                   &kp SPACE                   &kp NB_N0  &trans     &kp RALT
             >;
         };
